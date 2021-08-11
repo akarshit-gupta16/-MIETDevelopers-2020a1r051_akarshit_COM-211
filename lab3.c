@@ -1,5 +1,3 @@
-//Author: Aryan Gupta
-//Date of creation: 20 June 2021
 //Purpose:To check if a given expression is correctly parenthesized using Stacks.
 #include <stdio.h>
 #include <string.h>
